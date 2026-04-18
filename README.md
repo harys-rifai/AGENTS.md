@@ -55,7 +55,14 @@ Agents must support **multi-tenant applications** with **role-based access contr
 - Permissions should be **configurable via policy files or database tables**  
 - Use **middleware/guards** to enforce access control  
 
----
+## LANGUAGE
+
+ADD Bahasa Indonesia  and EN selection for user
+bahasa including all in user profile data, table name, etc, if user select EN then all will be EN, if user select Bahasa Indonesia then all will be Bahasa Indonesia. default language is English usa
+
+##TIME APPS CONFIGURATION 
+
+set to WIB (Waktu Indonesia Barat) - jakarta time
 
 ## 📂 File Handling Rules
 - Keep organization-specific configs separate (`/config/orgs/`)  
